@@ -35,6 +35,7 @@ conf:
     employment: false
     education: false
     gallery: true
+    books: true
   homepage:
     news: true
     intro: true
