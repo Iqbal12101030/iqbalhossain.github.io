@@ -10,6 +10,9 @@ courses:
   - code: CS 010C
     title: Introduction to Data Structures and Algorithms
     sessions: Spring 2025
+  - code: CS 153
+    title: Design of Operating Systems
+    sessions: Fall 2025
   - code: CS 165
     title: Computer Security
     sessions: Summer 2025
