@@ -1,18 +1,18 @@
 ---
 layout: education
-title: B.S. in CSE at RUET
+title: B.Sc. in CE at RUET
 institute: Rajshahi University of Engineering & Technology
 country: Bangladesh
-degree: B.S. in Computer Science & Engineering
-degree_short: B.S. in CSE
-duration: January 2017 &mdash; October 2022
-date: 2017-01-28
+degree: B.Sc. in Civil Engineering
+degree_short: B.Sc. in CE
+duration: January 2023 &mdash; January 2027
+date: 2023-01-01
 extras:
   - key: Cumulative GPA
-    value: 3.93/4.00 (Senior year GPA 3.96/4.0)
-  - value: Ranked 1st out of 114 Students
+    value: 3.95/4.00 (Senior year GPA Coming soon/4.0)
+  - value: Ranked ... out of 180 Students
   - key: Thesis topic
-    value: Identification of Optimum Time-profiles of Glucose and Insulin in the Oral Minimal Model
+    value: Coming soon
   - key: Adviser
-    value: "[Dr. Md. Rabiul Islam](https://www.cse.ruet.ac.bd/rabiul-cse)"
+    value: "[Dr. Md. Kumruzzaman](https://www.ce.ruet.ac.bd/kzzaman2000)"
 ---
