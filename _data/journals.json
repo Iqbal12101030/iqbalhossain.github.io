@@ -1,48 +1,42 @@
 [
   {
-    "id": "akon2021adact",
-    "html": "Mujtahid Akon, Muntashir Akon, Mohimenul Kabir,\nM Saifur Rahman, and M Sohel Rahman. ADACT: A tool for analysing (dis)\nsimilarity among nucleotide and protein sequences using minimal and\nrelative absent words. <em>Bioinformatics</em> 37, 10 (2021), 1468\u20131470.\n<a\nhref=\"https://doi.org/10.1093/bioinformatics/btaa853\">10.1093/bioinformatics/btaa853</a>",
+    "id": "islam2025barind",
+    "html": "Md. Sultanul Islam, Sumaya Tabassum, Md. Iqbal Hossain Khan, and Md. Imtiaz Hassan. Indigenous Knowledge, Resilience, and Adaptation to Climate Change in the Barind Tract of Bangladesh. <em>Turkish Journal of Engineering</em> 10, 1 (2025), 39–47. <a href=\"https://doi.org/10.31127/tuje.1762126\">10.31127/tuje.1762126</a>",
     "raw": {
-      "DOI": "10.1093/bioinformatics/btaa853",
+      "DOI": "10.31127/tuje.1762126",
       "author": [
         {
-          "family": "Akon",
-          "given": "Mujtahid"
+          "family": "Islam",
+          "given": "Md. Sultanul"
         },
         {
-          "family": "Akon",
-          "given": "Muntashir"
+          "family": "Tabassum",
+          "given": "Sumaya"
         },
         {
-          "family": "Kabir",
-          "given": "Mohimenul"
+          "family": "Khan",
+          "given": "Md. Iqbal Hossain"
         },
         {
-          "family": "Rahman",
-          "given": "M Saifur"
-        },
-        {
-          "family": "Rahman",
-          "given": "M Sohel"
+          "family": "Hassan",
+          "given": "Md. Imtiaz"
         }
       ],
-      "container-title": "Bioinformatics",
-      "id": "akon2021adact",
-      "issue": "10",
+      "container-title": "Turkish Journal of Engineering",
+      "id": "islam2025barind",
+      "issue": "1",
       "issued": {
         "date-parts": [
           [
-            2021
+            2025
           ]
         ]
       },
-      "note": "pdfs/btaa853.pdf",
-      "page": "1468-1470",
-      "publisher": "Oxford University Press",
-      "title": "ADACT: A tool for analysing (dis) similarity among nucleotide and protein sequences using minimal and relative absent words",
-      "title-short": "ADACT",
+      "page": "39-47",
+      "publisher": "Turkish Journal of Engineering",
+      "title": "Indigenous Knowledge, Resilience, and Adaptation to Climate Change in the Barind Tract of Bangladesh",
       "type": "article-journal",
-      "volume": "37"
+      "volume": "10"
     }
   }
 ]
