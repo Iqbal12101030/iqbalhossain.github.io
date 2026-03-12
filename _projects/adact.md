@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Project: ADACT"
+title: "Project nai"
 name: ADACT
 description: "ADACT (Alignment-free Dissimilarity Analysis & Comparison Tool) is a web-based tool for analysing & comparing dissimilarity among nucleotide and protein sequences."
 priority: 3
