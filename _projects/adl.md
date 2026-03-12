@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Project: Android Debloat List"
+title: "Project: nai"
 name: Android Debloat List
 description: "A comprehensive list of apps for debloating Android with suggestions and vulnerabilities, based on but independent of UAD-NG project."
 priority: 4
